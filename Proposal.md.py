@@ -1,9 +1,12 @@
 # Preproposal
 ## What idea(s) do you have for your final project?
-I want to create a small video game
-I was thinking something like Pong, or Flappy Bird
-I was even thinking about a visual novel kind of game
-I also wouldn't mind building an app
+A small video game
+
+Pong, or Flappy Bird
+
+A visual novel kind of game
+
+An app maybe
 
 
 
